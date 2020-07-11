@@ -1,0 +1,13 @@
+Buổi 1 
+    *Compunent 
+     - stateful Component (class)
+     - stateless Component (function)
+
+     bài tập 2 
+        + Header 
+        + Carouse
+        + wwd
+        + Contact
+        + Listcard
+            itemcard
+        + footer 
